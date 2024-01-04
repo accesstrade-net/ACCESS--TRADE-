@@ -1,8 +1,8 @@
 I'll/*
-Theme Name: Remote
-Theme URI: https://wordpress.com/theme/remote
-Author: Automattic
-Author URI: https://automattic.com
+Theme Name: ACCESS TRADE 
+Theme URI: https://aacesstrade.net
+Author: ACCESS TRADE 
+Author URI: https://accesstrade.net
 Description: Remote is a dark, minimal block theme ideal for bloggers. Its default styles - a sans-serif font and dark background - contribute for a comfortable, immersive reading experience. It features a set of bold block patterns such as a large posts list and bordered categories and tags.
 Requires at least: 6.1
 Tested up to: 6.1
@@ -45,8 +45,8 @@ body {
  * a global solution provided by the Block Editor.
  *
  * Relevant issues:
- * https://github.com/WordPress/gutenberg/issues/35607
- * https://github.com/WordPress/gutenberg/issues/35884
+ * https://accesstrade.net
+ * https://accesstrade.net
  */
 
 .wp-site-blocks,
