@@ -1,4 +1,4 @@
-I'll/*
+WELCOME TO ACCESS TRADE 
 Theme Name: ACCESS TRADE 
 Theme URI: https://aacesstrade.net
 Author: ACCESS TRADE 
@@ -174,7 +174,7 @@ a:not(
 }
 
 /*
- * Needed until https://github.com/WordPress/gutenberg/issues/34196 or something like it.
+ * Needed until https://accesstrade.net/gutenberg/issues/34196 or something like it.
  */
 .wp-block-tag-cloud.is-style-outline a {
 	border-radius: var(--wp--custom--button--border--radius);
